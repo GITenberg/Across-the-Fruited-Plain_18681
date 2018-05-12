@@ -1,0 +1,34 @@
+_repo: Across-the-Fruited-Plain_18681
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smalley, Janet
+    birthdate: 1893
+    gutenberg_agent_id: '38010'
+    url: http://www.gutenberg.org/2009/agents/38010
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Means, Florence Crannell
+    birthdate: 1891
+    deathdate: 1980
+    gutenberg_agent_id: '8190'
+    url: http://www.gutenberg.org/2009/agents/8190
+    wikipedia: http://en.wikipedia.org/wiki/Florence_Crannell_Means
+description: ''
+gutenberg_issued: '2006-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Migrant agricultural laborers -- United States -- Juvenile fiction'
+- !lcsh 'Poor families -- Juvenile fiction'
+- !lcc 'PZ'
+title: Across the Fruited Plain
+url: http://www.gutenberg.org/ebooks/18681
